@@ -72,4 +72,4 @@
 9. **Check Compactness of Feature Map**
    - Run the following Python code in the `ContrastiveVisual` folder: `python3 TSNE.py`
 
-**Note:** Follow these steps for smooth execution. To reproduce accuracy and results, ensure training on a full ACDC dataset with specified parameters. If issues arise, refresh and reconnect Google Colab for re-execution.
+**Note:** Follow these steps for smooth execution. To reproduce accuracy and results, ensure training on a full ACDC dataset with specified parameters. If issues arise, refresh and reconnect Google Colab for re-execution. Also for further details, please go through report in code repo. 
